@@ -1,0 +1,13 @@
+# Ignore All
+*
+
+# Not These
+!*.html
+!*.css
+!*.js
+!README.md
+!*.png
+!*.jpg
+!.sln
+!LICENSE
+!.gitignore
